@@ -13,8 +13,8 @@
 5. Screenshots Available
 
 # Screenshots
-<a href="https://github.com/Dev-NeeluSingh/SimpleCalculator/blob/master/Screenshot%201.jpg.jpg">
-      <img alt="Qries" src="https://github.com/Dev-NeeluSingh/SimpleCalculator/blob/master/Screenshot%201.jpg" width=240" height="480">
+<a href="https://github.com/Dev-NeeluSingh/Phonecode-with-flag-using-JsonObject/blob/master/Screenshot%201.png">
+      <img alt="Qries" src="https://github.com/Dev-NeeluSingh/Phonecode-with-flag-using-JsonObject/blob/master/Screenshot%201.png" width=240" height="480">
 </a>
 
 # Tools
